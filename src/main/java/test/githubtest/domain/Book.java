@@ -5,10 +5,12 @@ import lombok.Data;
 @Data
 public class Book {
 
-    private String haho;
+    private String hahho;
 
-    private String hoha;
+    private String hogha;
 
-    private String hiho;
+    private String hiaho;
+
+    private String hih1;
 }
 
